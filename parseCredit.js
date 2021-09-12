@@ -9,3 +9,4 @@ for(i;i<len1;i++)
 	var num = parseFloat(w[2].querySelector("span").innerText.replaceAll(",",""));
 	sum += num;
 }
+console.log(sum);
